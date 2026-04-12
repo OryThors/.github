@@ -1,4 +1,4 @@
-# OryThors
+# AqiNode
 
 **Building Now, Shaping What’s Next.**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Who We Are
 
-**OryThors** is a technology company focused on building intelligent systems that scale.
+**AqiNode** is a technology company focused on building intelligent systems that scale.
 
 We don’t chase trends — we engineer what’s next.
 
@@ -45,4 +45,4 @@ Actively building. Rapidly evolving.
 
 ---
 
-> OryThors — Building Now, Shaping What’s Next.
+> AqiNode — Building Now, Shaping What’s Next.
